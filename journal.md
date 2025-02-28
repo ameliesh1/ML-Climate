@@ -8,7 +8,7 @@ Week 2: Filtering through datasets we will be using, preparing data for usage in
 
 Week 3: Set up machine learning to make predictions on flooding based on data.
 
-Week 4: Determine how unpredictable flooding is in the present compare to the past.
+Week 4: Determine how unpredictable flooding is in the present compared to the past.
 
 Weeks 5/6: Finalize results and write paper.
 
