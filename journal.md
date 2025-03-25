@@ -25,4 +25,8 @@ Four Week Plan to Predict Flooding in Different Boroughs in NYC and the Potentia
       a.Abstract, introduction, data, methods, results, discussion, conclusion/recommendations
 3. Have presentation ready
 
+**3/23-3/24**
+-Found Spatial and Temporal Datasets and added to the github: Elevation of 5 boroughs, Future floodplains predictions by borough, High tide predictions by borough, Rainfall data
 
+**3/25**
+-Began cleaning data
