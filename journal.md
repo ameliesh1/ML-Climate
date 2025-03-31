@@ -31,7 +31,8 @@ Four Week Plan to Predict Flooding in Different Boroughs in NYC and the Potentia
 **3/25**
 -Began cleaning data
 
-**3/26-3/30**
+**3/28-3/30**
+
       We made a decision to pivot because our original idea was not working out due to a lack of publicly available data, despite our efforts to find multiple datasets, and we were not entirely sure whether we should approach the problem with transfer learning or find a way to extend the datasets via data augmentation. We therefore continued our search for projects which would have large datasets to work with, and we ultimately decided on an idea which is extremely relevant to current day global warming issues, especially regarding the recent January fires in the Los Angeles area. Our vision is to be able to create a machine learning model that can predict wildfire risk levels based on a dataset of images that are labelled with different risk classifications. The goal would be to create a model that can be utilized in current society to monitor different areas and allow for early detection and intervention in places where wildfires could occur.
       
       The first thing we did was look for a dataset to fit our idea and we found a large one that was curated using images from the National Agriculture Imagery Program. Then, we decided generally how we wanted to split our dataset between testing, training, and validation (60%, 20%, 20%) and started our code. We decided to use GoogleColab because it’s easier to use than Github for our group project purposes, and we typically like to work simultaneously and talk to each other while coding. As we progress, we’ll be uploading our code along with our journal entries. We also have our dataset at hand, and we will be adding the link to it shortly. It is very large and we are still in the process of uploading it to Google Drive.
