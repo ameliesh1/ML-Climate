@@ -42,3 +42,6 @@ So far in our code this weekend we did a basic setup of the base of our project 
 The other main goal that we had for this weekend was to try to handle class imbalance before it became a point of bias. We included a weighing system for the classes based on their frequency so that each chunk will have an even mix of categories regardless of how frequent they might occur in the total dataset. This will reduce the chances of our model learning biases when it is fully completed. Additionally we split the dataset into the three sections mentioned earlier with 60% for testing, 20% for training, and 20% for validation.
 
 This coming week we are going to focus on coding our actual convolutional neural network (CNN) which will actually learn patterns by using different factors to predict when a wildfire is more likely to occur based on visual cues using multi-class classification.
+
+**4/10**
+We updated our code to begin training a neural network on the data, however we ran out of GPU while attempting the training. While we believe the training process is working, it is very slow due to the vast amount of data that we need to process. We are now splitting the dataset to cut down on computation time, and hope to be able to run our project just using CPU.
