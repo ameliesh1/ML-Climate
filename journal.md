@@ -45,3 +45,7 @@ This coming week we are going to focus on coding our actual convolutional neural
 
 **4/10**
 We updated our code to begin training a neural network on the data, however we ran out of GPU while attempting the training. While we believe the training process is working, it is very slow due to the vast amount of data that we need to process. We are now splitting the dataset to cut down on computation time, and hope to be able to run our project just using CPU.
+
+**4/18**
+We will spend the weekend updating our code and have the updates in by Sunday evening, we plan on getting the ML to run and having basic statistics on the success of our project.
+
