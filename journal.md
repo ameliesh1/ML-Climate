@@ -49,3 +49,6 @@ We updated our code to begin training a neural network on the data, however we r
 **4/18**
 We will spend the weekend updating our code and have the updates in by Sunday evening, we plan on getting the ML to run and having basic statistics on the success of our project.
 
+**Week of 4/13**
+The last week and a half we’ve been working on our code mainly to get the loss to work correctly. Then, it was functioning correctly, however our dataset was so large that the GPU usage would reach its limit. So we decided to solve that by adding code to split our dataset in half in order to optimize the usage of our GPU. In doing so we made sure that the classifications and images stayed balanced as well. That solved our initial problem, but now we have an additional problem where our last batch never finishes and the program just gets stuck. We’re not sure exactly why it’s not working properly as of yet, but the next step is to modify the code to drop the last batch so the rest of the program runs and we can get the rest of our results and create some visuals in order to show our data. Additionally, we are running another code based on CPU, just to be able to compare the results and potentially the energy impact as well. So far, as expected, it takes much longer for the CPU to run.
+
